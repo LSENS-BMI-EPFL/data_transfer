@@ -1,0 +1,2 @@
+@echo off
+"C:\Users\bechvila\AppData\Local\Microsoft\WindowsApps\python.exe" "C:\Users\bechvila\Desktop\Python_repo\WF_utils\data_rename_and_transfer.py"
